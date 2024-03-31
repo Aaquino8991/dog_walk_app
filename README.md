@@ -1,1 +1,1 @@
-# Dog Walk App
+# dog-walk-app
